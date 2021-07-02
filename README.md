@@ -5,11 +5,11 @@ This project seeks to take a Kaggle dataset of primarily US-based UFO sightings 
 ## Results 
 This webpage will be used to ensure this valuable data is open and accessible to those who don't have the time or skills to pull and analyze JSON data files. In this screenshot, you can see that the data as presented in its native file is pretty easy to read, but to scroll through and do any kind of analysis would not be feasible. 
 
-![data.js file screenshot](/static/images/Screenshot (28).png "data.js screenshot")
+![data.js file screenshot](https://github.com/BKroos/UFOs/blob/main/static/images/Screenshot%20(28).png)
   
 However, because we have utilized JavaScript and Bootstrap, this data is now presented in an aesthetically pleasing, filterable webpage, which allows people with all levels of data analysis skill to dig into and understand the data. For instance, with this dataset I was able to check if there had been a UFO sighting on my birthday in 2010 (no luck), if there had been any UFO sightings in my hometown (no dice, again), but taking one step out I was able to see all the UFO sightings in the state in which I now live:
   
-![webpage filter search](/static/images/Screenshot (29).png "webpage filter search screenshot")
+![webpage filter search](https://github.com/BKroos/UFOs/blob/main/static/images/Screenshot%20(29).png)
     
 Further, this reveals a new level of utility, as without the state-level filter, I would not have known there was a UFO sighting as close as Round Rock, TX, as searches for Austin, TX did not pull any results.     
     
